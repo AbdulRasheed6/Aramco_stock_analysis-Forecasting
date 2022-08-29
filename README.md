@@ -20,7 +20,7 @@
 The financial market has been plunged into several losses as a result of  unforseen political and social disruptions (like the  Russian invasion and the Pandenmic). Long and medium term buisness goals have been disrupted,  and to be able to mitigate the effect of these socio-political disruptions, short term plans that takes into account these disruptions needs to be created. In our analysis we would take a close look at Saudi Aramco stock and the effects of oil prices (OPEC basket) and the Russia-Ukraine crisis on the stock.
 The process carried out during this project can simply be tagged as ETL (extract, transform and load)
 
-[<img target="_blank" src="https://www.altexsoft.com/media/2021/03/the-etl-workflow.png" >](https://www.altexsoft.com/blog/etl-vs-elt/)
+[<img target="_blank" src="https://www.altexsoft.com/media/2021/03/the-etl-workflow.png" width=80>](https://www.altexsoft.com/blog/etl-vs-elt/)
 
 
 
