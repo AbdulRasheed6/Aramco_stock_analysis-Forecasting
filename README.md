@@ -13,9 +13,9 @@
 ## Dashboard
 Link: [https://india-flight-price.herokuapp.com/](https://india-flight-price.herokuapp.com/)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://india-flight-price.herokuapp.com/)
+![Screenshot (7)](https://user-images.githubusercontent.com/59423092/187164383-cf0a47f9-a8aa-4784-a82b-4177a3793b7e.png)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://india-flight-price.herokuapp.com/)
+
 
 ## Overview
 Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. 
