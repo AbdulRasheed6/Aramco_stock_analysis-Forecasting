@@ -6,7 +6,7 @@
   * [Overview](#overview)
   * [Research questions](#research-questions)
   * [Installation](#installation)
-  * [Prediction](#forecating/prediction)
+  * [Prediction](#prediction)
   * [Future scope of project](#future-scope)
 
 
