@@ -25,20 +25,20 @@ The financial market has been plunged into several losses as a result of  unfors
 ## Research questions
 Research Questions
 The aim of our study is to answer the below research questions:
->> 1. Do the prices of oil in the OPEC basket have an effect on the Adj Close price
+> 1. Do the prices of oil in the OPEC basket have an effect on the Adj Close price
 
->> 1b. Is there any effect of the Ukraine_crisis on the Adj Close price
+> 1b. Is there any effect of the Ukraine_crisis on the Adj Close price
 
 
->> 1c.  Do the Volume of shares have a relationship with Adj Close price
+> 1c.  Do the Volume of shares have a relationship with Adj Close price
 
 
 > Research Questions (2)
->> 2a. Is the the Adj Close price data stationary
+> 2a. Is the the Adj Close price data stationary
 
->> 2b. If there is a relationship between OPEC_price and Adj Close , then  prove it with a  statistical test    
+> 2b. If there is a relationship between OPEC_price and Adj Close , then  prove it with a  statistical test    
 
->> 2c. Is there any relationship between OPEC_price and Ukraine_crisis.
+> 2c. Is there any relationship between OPEC_price and Ukraine_crisis.
 
 
 
