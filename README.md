@@ -12,7 +12,7 @@
 
 ## Dashboard
 
-![Screenshot (7)](https://user-images.githubusercontent.com/59423092/187164383-cf0a47f9-a8aa-4784-a82b-4177a3793b7e.png)
+![Dashboard](https://user-images.githubusercontent.com/59423092/187164383-cf0a47f9-a8aa-4784-a82b-4177a3793b7e.png)
 
 
 
@@ -56,9 +56,8 @@ pip install -r requirements.txt
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="![image](https://user-images.githubusercontent.com/59423092/187181950-efb68f1c-f872-4b2c-bbc3-4bcc980bd76a.png)
-![Uploading image.png…]()
-" width=170>](https://www.gstatic.com/devrel-devsite/prod/v6bd99c7d8fa6220aea6020b29137b212e2eacdba13242535487f52ab3557b0cb/tensorflow/images/lockup.svg?dcb_=0.8780246532440883) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://avatars.githubusercontent.com/u/16359713?v=4" width=200>](https://github.com/tensorflow-jenkins/) 
+
 
 
 ## Future Scope
