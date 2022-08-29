@@ -6,7 +6,8 @@
   * [Overview](#overview)
   * [Research questions](#research-questions)
   * [Installation](#installation)
-  * [Insights](#insights)
+ 
+
   * [Future scope of project](#future-scope)
 
 
