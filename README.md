@@ -36,6 +36,8 @@ c) Does price also vary with total_stops
 
 
 
+
+
 ## Insights/Answers to research questions
 Jet Airways buisness and Jet Airways are the most expensive airline, while spicejet and indigo are the cheapest airline.
 As the number of stops increases the prices also increases.
