@@ -60,6 +60,9 @@ pip install -r requirements.txt
 
 
 ## Prediction
+Bearing in mind that the current stock price (Adj Close) of Aramco will not be be available for prediction, you are  tasked to build a machine learning  model that predicts the current price,  taking into account the prices of oil in the OPEC basket and some other external factors. 
+
+![Screenshot (13)](https://user-images.githubusercontent.com/59423092/187312989-a98702c3-37f4-44c1-9813-7b5e17d9b12d.png)
 
 
 
