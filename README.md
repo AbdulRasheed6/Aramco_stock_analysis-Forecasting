@@ -11,25 +11,35 @@
 
 
 ## Dashboard
-Link: [https://india-flight-price.herokuapp.com/](https://india-flight-price.herokuapp.com/)
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/59423092/187164383-cf0a47f9-a8aa-4784-a82b-4177a3793b7e.png)
 
 
 
 ## Overview
-Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. 
-We might have often heard travellers saying that flight ticket prices are so unpredictable.
-Here you will be provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities. 
+The financial market has been plunged into several losses as a result of  unforseen political and social disruptions (like the  Russian invasion and the Pandenmic). Long and medium term buisness goals have been disrupted,  and to be able to mitigate the effect of these socio-political disruptions, short term plans that takes into account these disruptions needs to be created. In our analysis we would take a close look at Saudi Aramco stock and the effects of oil prices (OPEC basket) and the Russia-Ukraine crisis on the stock
 
-This is a Flask web app which predicts fare of Flight ticket.
+
+
 
 ## Research questions
 Research Questions
 The aim of our study is to answer the below research questions:
-a) Does price vary with Airlines?
-b) How the price changes with change in Source and Destination?
-c) Does price also vary with total_stops
+>> 1. Do the prices of oil in the OPEC basket have an effect on the Adj Close price
+
+>> 1b. Is there any effect of the Ukraine_crisis on the Adj Close price
+
+
+>> 1c.  Do the Volume of shares have a relationship with Adj Close price
+
+
+> Research Questions (2)
+>> 2a. Is the the Adj Close price data stationary
+
+>> 2b. If there is a relationship between OPEC_price and Adj Close , then  prove it with a  statistical test    
+
+>> 2c. Is there any relationship between OPEC_price and Ukraine_crisis.
+
 
 
 
