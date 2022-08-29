@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/121px-Postgresql_elephant.svg.png" width=170>](https://en.wikipedia.org/wiki/PostgreSQL/)[<img target="_blank" src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" width=150>](https://1000logos.net/microsoft-power-bi-logo/)
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://avatars.githubusercontent.com/u/16359713?v=4" width=200>](https://github.com/tensorflow-jenkins/) 
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://avatars.githubusercontent.com/u/16359713?v=4" width=200>](https://github.com/tensorflow-jenkins/) 
 
 
 ## Prediction
@@ -68,6 +68,7 @@ Bearing in mind that the current stock price (Adj Close) of Aramco will not be b
 
 ## Future Scope
 
-* Use multiple Algorithms
-* Optimize Flask app.py
+* Leverage on Natural Language Processing (NLP) and  Word Embedding  to build a more flexible model.
+* Gather more data , so as the algorithm can create more scenarios.
+* Create a web  app
 * Front-End 
