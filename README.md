@@ -1,5 +1,9 @@
 # Aramco_stock_analysis-Forecasting
 
+An issue might occur when trying to view the jupyter notebook , check this link to view the notebook(https://nbviewer.org/github/AbdulRasheed6/Sapa_Dataset/blob/main/Aramco_stock_price_prediction.ipynb)
+
+
+
 
 ## Table of Content
   * [Dashboard](#dashboard)
